@@ -14,7 +14,7 @@ Android:
 npm run android
 ```
 
-## About:
+## About me :
 -Bruno Matheus R. D.
 
 -Linkedin:
